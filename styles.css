@@ -7,7 +7,12 @@ html,body {
   font-family: arial, sans-seif;
 }
 main {
-  width: 360px;
-  height: 800px;
+  width: 1000px;
+  height: 250px;
   margin: 0 auto;
+}
+.google-logo {
+  width: 250px;
+  height: 80px;
+  align-content: center;
 }
