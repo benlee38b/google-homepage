@@ -9,4 +9,5 @@ html,body {
 main {
   width: 360px;
   height: 800px;
+  margin: 0 auto;
 }
